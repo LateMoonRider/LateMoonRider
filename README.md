@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LateMoonRider
 - 👀 I’m interested in ...blockchain solidity EVM, python,  kadena & pact,  trading
-- 🌱 I’m currently learning ...python blockchain
+- 🌱 I’m currently learning ...python solidity blockchain flashloans
 - 💞️ I’m looking to collaborate on ...recovery mislaid crypto coins
 - 📫 How to reach me ...rebornsimob@gmail.com
 
